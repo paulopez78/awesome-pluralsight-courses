@@ -1,5 +1,5 @@
 # Awesome Pluralsight Courses
-My favourite courses at pluralsight: c#, .net, object oriented programming, SOLID, design patterns, functional programing, devops, docker, go , ansible.
+My favourite PluralSight courses: c#, .net, object oriented programming, SOLID, design patterns, functional programing, devops, docker, go , ansible.
 
 * Object Oriented Programming with SOLID and Design Patterns in C#
   * https://app.pluralsight.com/profile/author/mark-seemann
