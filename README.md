@@ -15,3 +15,15 @@ My favourite PluralSight courses: c#, .net, object oriented programming, SOLID, 
 * Devops with docker, ansible
   * https://app.pluralsight.com/profile/author/nigel-poulton (docker, go)
   * https://app.pluralsight.com/profile/author/justin-menga (devops)
+
+
+* Devops with docker, ansible
+  * https://app.pluralsight.com/profile/author/nigel-poulton (docker, go)
+  * https://app.pluralsight.com/profile/author/justin-menga (devops)
+
+* Cross Platform Development with .NET Core
+ * https://app.pluralsight.com/library/courses/aspdotnet-core-msbuild-tooling/table-of-contents
+ * https://app.pluralsight.com/library/courses/dotnet-core-building-cross-platform-applications/table-of-contents
+ * https://app.pluralsight.com/library/courses/dotnet-core-windows-developers-getting-started
+ * https://app.pluralsight.com/library/courses/visual-studio-code-aspdotnet-projects/table-of-contents
+ 
