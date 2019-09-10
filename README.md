@@ -22,8 +22,10 @@ My favourite PluralSight courses: c#, .net, object oriented programming, SOLID, 
   * https://app.pluralsight.com/profile/author/nigel-poulton (docker, go)
   * https://app.pluralsight.com/profile/author/justin-menga (devops)
 
-
 * Devops with docker, ansible
   * https://app.pluralsight.com/profile/author/nigel-poulton (docker, go)
   * https://app.pluralsight.com/profile/author/justin-menga (devops)
+  
+* Advanced Git
+  * https://app.pluralsight.com/library/courses/git-advanced-tips-tricks/table-of-contents
  
